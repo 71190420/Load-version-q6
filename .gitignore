@@ -1,0 +1,21 @@
+# Qt Creator / local build artifacts
+*.pro.user
+*.pro.user.*
+build-*/
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+Makefile
+.qmake.stash
+
+# IDE and OS files
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
